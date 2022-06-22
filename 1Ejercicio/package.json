@@ -1,0 +1,15 @@
+{
+  "name": "tarea1",
+  "version": "1.0.0",
+  "description": "Tarea 1 del curso de bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start" :"node index.js"
+  },
+  "keywords": [
+    "tarea",
+    "javascript"
+  ],
+  "author": "G. Guedes",
+  "license": "ISC"
+}
